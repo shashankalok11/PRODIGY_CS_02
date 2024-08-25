@@ -74,10 +74,10 @@ def decrypt_image(encrypted_path, output_path, key=25):
 
 # Example Usage
 # Encrypt the image
-encrypt_image(r'C:\Users\sreep\Documents\Code\acvalhalla.jpg', r'C:\Users\sreep\Documents\Code\encrypted_acvalhalla.jpg', key=25)
+encrypt_image(r'C:\Users\shash\Documents\Code\acvalhalla.jpg', r'C:\Users\shash\Documents\Code\encrypted_acvalhalla.jpg', key=25)
 
 # Decrypt the image
-decrypt_image(r'C:\Users\sreep\Documents\Code\encrypted_acvalhalla.jpg', r'C:\Users\sreep\Documents\Code\decrypted_acvalhalla.jpg', key=25)
+decrypt_image(r'C:\Users\shash\Documents\Code\encrypted_acvalhalla.jpg', r'C:\Users\shash\Documents\Code\decrypted_acvalhalla.jpg', key=25)
 ```
 
 ## Notes
